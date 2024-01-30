@@ -4,5 +4,6 @@
 
 
 <h4 align="center">
-Converting Chromebooks to general-purpose laptops running macOS.
 </h4>
+
+<br><br>
